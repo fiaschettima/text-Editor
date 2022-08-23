@@ -14,7 +14,6 @@ Here's a few quick links:
 * [Installation and Usage](#Installation-and-Usage)
 * [Code Snippets](#code-snippets)
 * [Technology used](#technology-used)
-* [learning Points](#learning-points)
 * [License](#license)
 * [Author](#author)
 ---
@@ -47,15 +46,8 @@ This snippet of code shows the steps needed to be taken to store data to indexed
 ## Technology Used
     
     JS
-    MONGO db
-    express
-    mongoose
-
----
-
-## Learning Points
-    
-    This project provided experience using mongo db in conjunction with mongoose to create databases.
+   IndexedDB
+   Webpack
 
 ---
 
