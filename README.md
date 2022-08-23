@@ -46,8 +46,8 @@ This snippet of code shows the steps needed to be taken to store data to indexed
 ## Technology Used
     
     JS
-   IndexedDB
-   Webpack
+    IndexedDB
+    Webpack
 
 ---
 
